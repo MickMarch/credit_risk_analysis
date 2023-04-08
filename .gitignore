@@ -8,6 +8,7 @@ __pycache__/
 
 # Misc
 practice.*
+LoanStats_2019Q1.csv
 
 # Distribution / packaging
 .Python
