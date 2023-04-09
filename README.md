@@ -168,8 +168,8 @@ EasyEnsembleClassifier is an ensemble of **Adaptive Boosting** machine learning 
 
 #### Accuracy
 
-**Winner**: EasyEnsembleClassifier (0.9153209663852316)
-**Loser**: BalancedRandomForestClassifier (0.7649170313926761)
+- **Winner**: EasyEnsembleClassifier (0.9153209663852316)
+- **Loser**: BalancedRandomForestClassifier (0.7649170313926761)
 
 #### Precision
 
